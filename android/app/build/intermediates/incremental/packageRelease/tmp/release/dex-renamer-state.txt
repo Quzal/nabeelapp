@@ -1,0 +1,4 @@
+#Sun Nov 01 20:47:47 AEDT 2020
+base.0=/Users/apple/Downloads/ReactMobile/reactDemo/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
